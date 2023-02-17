@@ -1,0 +1,15 @@
+.vscode/
+
+__pycache__/
+
+db.sqlite3
+local.py
+prod.py
+
+*.log
+*.pot
+*.py[cod]
+
+media/**
+!media/
+!media/.gitkeep
